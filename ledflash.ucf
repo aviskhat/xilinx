@@ -1,0 +1,11 @@
+# Clock input pin
+NET "CLK_66MHZ" LOC = "K15";
+
+# User reset pin
+NET "USER_RESET" LOC = "V4";
+	
+# LED output pins
+NET "LED[0]" LOC = "P4";
+NET "LED[1]" LOC = "L6";
+NET "LED[2]" LOC = "F5";
+NET "LED[3]" LOC = "C2";
